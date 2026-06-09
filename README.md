@@ -144,12 +144,8 @@ https://drive.google.com/file/d/1-qzu9MQp5snwwtCJLvcruB8MldkR9Pwg/view?usp=shari
 ### Home Page
 
 Add screenshot here:
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/c0a34c4b-b5d1-4115-8218-90ad07f98cd7" />
 
-```markdown
-![Home Page]
-<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/f3ca830f-c468-48aa-9728-6e2970f71cd1" />
-
-```
 
 ### Chat Interface
 
